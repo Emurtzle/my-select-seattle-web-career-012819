@@ -9,4 +9,3 @@ def my_select(collection)
   end
   collection
 end
-end
